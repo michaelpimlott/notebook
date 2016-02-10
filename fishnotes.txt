@@ -1,0 +1,252 @@
+      <l1>All</li>
+      <li>Advanced Name Search</li>
+      <li>Advanced Search</li>
+      <li>Advanced Title Search</li>
+      <li>Biographies</li>
+      <li>Character</li>
+      <li>Company</li>
+      <li>Keyword</li>
+      <li>Movie</li>
+      <li>Name</l1>
+      <li>Plot Summaries</li>
+      <li>Quotes</li>
+      <li>TV Episode</li>
+      <li>TV</li>
+      <li>Title</li>
+      <li>Video Game</li>
+      <p> <img src="https://github.com/gSchool/prework/blob/master/_02_html/images/2000.jpg?raw=true"/> <a href=" README.md."> 2000 AD</a> (2000) aka "Hackers"</p>
+      <p> <img src="https://github.com/gSchool/prework/blob/master/_02_html/images/amyacker.jpg?raw=true/> <a href="http://www.imdb.com/name/nm0009918/?ref_=fn_al_nm_1"> Amy Acker</a> (Actress, Angel(1999))</p>
+      <p> <img src="https://github.com/gSchool/prework/blob/master/_02_html/images/buddyhackett.jpg?raw=true"/><a href="http://www.imdb.com/name/nm0004983/?ref_=fn_al_nm_1"> Buddy Hackett</a> (Actor, The Little Mermaid (1989))</p>
+      <p> <img src="https://github.com/gSchool/prework/blob/master/_02_html/images/drewvan.jpg?raw=true"/> <a href="http://www.imdb.com/name/nm3216408/?ref_=fn_al_nm_1"> Drew Van Acker</a> (Actor, Pretty Little Liars(2010))</p>
+      <p> <img src="https://github.com/gSchool/prework/blob/master/_02_html/images/emilywilkersham.jpg?raw=true"/.<a href="http://www.imdb.com/name/nm2278978/?ref_=fn_al_nm_1"> Emily Wickersham</a> (Actress, I Am Number Four (2011))</p>
+      <p> <img src="https://github.com/gSchool/prework/blob/master/_02_html/images/frontline.jpg?raw=true"/> <a href=" README.md."> Hackers</a> (2001) (TV Episode) - Frontline (1983) (TV Series)</p>
+      <p> <img src="https://github.com/gSchool/prework/blob/master/_02_html/images/hackers.jpg?raw=true"/> <a href=" README.md."> Hackers</a> (1995)</p>
+      <p> <img src="https://github.com/gSchool/prework/blob/master/_02_html/images/hackersgame.jpg?raw=true"/> <a href=" README.md."> Hacker's Game</a> (2015) aka "the Hackers"</p>
+      <p>Bleeker Street Entertainment</p>
+      <p>Bleeker Street Media</p>
+      <p>Crackerjack Manangement</p>
+      <p>Douglas, Gorman, Rothbacker & Wihelm (DGRW)</p>
+      <p>hacker (180 titles)</p>
+    </ul>
+    </ul>
+    <h3>Companies</h3>
+    <h3>Keywords</h3>
+    <h3>Names</h3>
+    <h3>Titles</h3>
+    <title>Results for "Hackers"</title>
+    <ul>
+   <h3> Additional Search Options</h3>
+  </head>
+  <h1>Results for "Hackers"</h1>
+  <h3>Category Search</h3>
+  <head>
+  wget https://github.com/wiggin15/SublimeNyan/raw/master/Nyan.ttf -O ~/Library/Fonts/Nyan.ttf
+ mv Desktop/hackers.html prework/_02_html/your-solution/Pimlott-Michael/index.html
+ pbcopy < ~/.ssh/id_rsa.pub
+..
+.exit
+.ssh/id_rsa.pub.
+/Users/michaelpimlott/.ssh/id_rsa.pub.
+</body>
+<body>
+<html>
+Library/
+Pimlott-Michael
+atom .
+atom ~/.config/fish/config.fish
+atom ~/Desktop/test.js
+brew doctor
+brew help
+brew install fish
+brew install git
+brew install node
+brew install tree
+brew update
+cat /Users/michaelpimlott/.ssh/id_rsa.pub.
+cat notes.txt
+cd
+cd
+cd  _02_html
+cd .
+cd ..
+cd .git
+cd /
+cd Applications/
+cd Desktop
+cd Documents/
+cd Pimlott-Michael
+cd Projects
+cd Projects/
+cd Spoon-Knife
+cd _02_html
+cd _02_html/your-solution
+cd _03_css
+cd _06_personal-project
+cd desktop
+cd downloads
+cd galvanize
+cd hackers.html
+cd index.html
+cd michaelpimlott.surge.sh/
+cd michaelpimlott/
+cd notebook
+cd prework
+cd style.css
+cd your-solution
+cd./root
+cd_02_html
+cd_03_css
+cdpwd
+chsh -s /usr/local/bin/fish
+clear
+cp prework/_02_html/your-solution/Pimlott-Michael/index.html/hackers.html prework/_03_css/your-solution/Pimlott-Michael/index.html
+curl -fsSL https://git.io/vgqFH | sh
+curl -fsSL https://git.io/vgqFU | ruby
+echo "# git-practice" >> README.md
+echo $EDITOR
+echo $PATH
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+eval "$(ssh-agent -s)"
+fish_update_completions
+galvanize
+get
+get https://github.com/wiggin15/SublimeNyan/raw/master/Nyan.ttf -O ~/Library/Fonts/Nyan.ttf
+git
+git --version
+git add -A
+git add CNAME
+git add Hackers_website.html
+git add README.md
+git add hope
+git add index.html
+git add-A
+git branch
+git clone https://github.com/MichaelPimlott/Spoon-Knife.git
+git clone https://github.com/MichaelPimlott/prework.git
+git clone https://github.com/gSchool/prework.git
+git commit
+git commit -m "Added personal project"
+git commit -m "Added stylesheet"
+git commit -m "Include solution for chapter 1"
+git commit -m "first commit"
+git commit -m 'Add a CNAME'
+git commit -m 'Add a tiny web page'
+git commit hackers.html
+git config --global user.email "pettingbutterscotch@gmail.com"
+git config --global user.email 'pettingbutterscotch@gmail.com'
+git config --global user.name "Michael Pimlott"
+git config --global user.name "YOUR NAME"cd
+git config --global user.name 'Michael Pimlott'
+git credential-osxkeychain
+git init
+git push -u origin master
+git push origin master
+git remote -v
+git remote add origin https://github.com/MichaelPimlott/git-practice.git
+git remote add upstream https://github.com/MichaelPimlott/Spoon-Knife.git
+git remote add upstream https://github.com/gSchool/prework.git
+git status
+history
+history > notes.txt
+la -G
+li
+ll
+ls
+ls -G
+ls -a
+ls -al ~/.ssh
+ls -l
+ls -lh
+ls -lt
+ls -r
+ls ..
+ls downloads
+man cd
+man ls
+mkdir Pimlott-Michael
+mkdir [Pimlott-Michael]
+mkdir galvanise
+mkdir galvanize
+mkdir git-practice
+mkdir index.html
+mkdir michaelpimlott.surge.sh/
+mkdir notebook
+mkdir prework
+mkdir style.css
+mkdir ~/Projects
+mv Desktop/hackers.html prework/_02_html/your-solution/Pimlott-Michael/index.html
+mv Downloads/Nyan.ttf ~/Library/Fonts/.
+mv [desktop/Hackers_website.html] [galvanise/prework]
+mv desktop/hackers.html _02_html/your-solution/Pimlott-Michael/index.html
+mv galvanize/Personal_Site.html prework/_06_personal-project/Pimlott-Michael/index.html
+mv galvanize/Personal_site.css prework/_06_personal-project/Pimlott-Michael/style.css
+mv galvanize/Pesonal_site.css prework/_06_personal-project/Pimlott-Michael/style.css
+mv galvanize/hackers.css prework/_03_css/your-solution/Pimlott-Michael/style.css
+mv galvanize/personal_site2.html prework/_06_personal-project/Pimlott-Michael/index.html
+mv prework galvanize
+node
+node -v
+node ~/Desktop/test.js
+npm install -g surge
+open .
+open .ssh/id_rsa.pub.
+open /Users/michaelpimlott/.ssh/id_rsa.pub.
+open /users/michaelpimlott
+open Downloads
+open [Desktop]
+open [Documents]
+open [cd]
+open [documents]
+open galvanise
+open galvanize
+open git-practice
+open index.html
+open notes.txt
+open prework
+open ~
+open./Desktop
+prework
+prework cd
+pwd
+rm -rf .git
+rm -rf [Pimlott-Michael]
+rm -rf galvanise
+rm -rf galvanize
+rm -rf git-practice
+rm -rf index.html
+rm -rf prework
+rm -rf style.css
+rm -rf unix-commands.txt
+rm index.html
+rm notes.txt
+rm prework
+rm style.css
+rm unix-commands.text
+rm unix-commands.txt
+rm ~/Desktop/test.js
+rm-rf style.css
+rm-rf unix-commands.txt
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+shout $PATH
+ssh-add ~/.ssh/id_rsa
+ssh-keygen -t rsa -b 4096 -C "pettingbutterscotch@gmail.com"
+surge
+surge -V
+touch CNAME
+touch git-practice
+touch index.html
+touch notes.txt
+touch prework
+touch style.css
+touch unix-commands.txt
+tree -L 1
+tree -L 2
+tree -aL 1
+lists out
+uname
+unix-commands.txt
+wget get https://github.com/wiggin15/SublimeNy
+wget https://github.com/wiggin15/SublimeNyan/raw/master/Nyan.ttf -O ~/Library/Fonts/Nyan.ttf
+which echo
+which git
+whoami
