@@ -1,5 +1,6 @@
 
-
+     "this is a thing that I am doing now"
+     "i am also doing this thing"
       "git hub is for real sweet"
 
       "this is also a change"
