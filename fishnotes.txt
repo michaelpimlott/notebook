@@ -185,6 +185,7 @@ mv galvanize/hackers.css prework/_03_css/your-solution/Pimlott-Michael/style.css
 mv galvanize/personal_site2.html prework/_06_personal-project/Pimlott-Michael/index.html
 mv prework galvanize
 node
+node is sweet
 node -v
 node ~/Desktop/test.js
 npm install -g surge
